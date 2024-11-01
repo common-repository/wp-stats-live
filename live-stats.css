@@ -1,0 +1,8 @@
+#wphead {
+	padding-bottom: 70px;
+}
+
+#cl_summary_wrap{position:absolute; width:500px; right:10px; top:25px; text-align:right; line-height:17px;}
+.cl_summary_small{font-size:13px; color:#21759B;}
+
+.widefat td {border-width: 0px;}
